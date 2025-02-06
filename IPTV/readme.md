@@ -1,8 +1,8 @@
 ## IPTV 源
 
-iptv.txt: https://github-private.516278.xyz/IPTV/IPTV.txt?token=666888999
+iptv.txt：https://github-private.516278.xyz/IPTV/IPTV.txt?token=666888999
 
-iptv.m3u： https://github-private.516278.xyz/IPTV/IPTV.m3u?token=666888999
+iptv.m3u：https://github-private.516278.xyz/IPTV/IPTV.m3u?token=666888999
 
 #### 更新地址
 - 20250206 同步自闲鱼源
